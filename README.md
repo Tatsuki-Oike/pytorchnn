@@ -1,7 +1,7 @@
 # 1 Youtube
 youtubeの「PytorchでCNN」シリーズで解説しているコードを載せています！
 
-<a href="https://www.youtube.com/watch?v=lIPSMxDgDT4&list=PL7BUpEjz_maTXqkTb4qPKZWJD98bV4Aw2">　<img src="image/r.JPG">　</a>
+<a href="https://www.youtube.com/watch?v=lIPSMxDgDT4&list=PL7BUpEjz_maTXqkTb4qPKZWJD98bV4Aw2">　<img src="image/pytorchnn.JPG">　</a>
 
 <br>
 
